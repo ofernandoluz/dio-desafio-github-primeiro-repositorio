@@ -1,0 +1,57 @@
+Git criado em 2005 por Linus Torvalds.
+Um versionador de códigos.
+Git e GitHub são coisas diferentes, apesar de aparecem e serem estudados juntos em diversos conteúdos.
+
+Benefícios do uso de Git e GitHub:
+1. Controle de versão
+2. Armazenamento em nuvem
+3. Trabalho em equipe
+4. Melhorar o código
+5. Reconhecimento
+
+Navegação via commandline interface e instalação: comandos básicos para um bom desempenho no terminal
+
+A forma de interação é por meio de linha de comando
+
+Nesse curso da DIO aprendemos como mudar de pastas, listar pastas, criar pastas/arquivos e/ou deletar pastas/arquivos.
+
+Comandos Windows:
+
+- cd
+- dir
+- mkdir
+- del/rmdir
+
+
+Comandos Linux:
+
+- cd
+- ls
+- mkdir
+- rm-rf
+
+
+Tópicos fundamentais para entender o funcionamento do Git:
+
+SHA1: encriptação/forma curta de representar um arquivo;
+Objetos fundamentais;
+Sistema distribuído;
+Segurança.
+
+Objetos internos do Git:
+Blobs, trees, commits
+
+
+Chaves SSH e Tokens:
+
+Chave SSH: uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+
+Iniciando o Git e criando um commit:
+
+Iniciar o Git + iniciar o versionamento + criar um commit
+
+- git init
+- git add
+- git commit
+
+[...]
